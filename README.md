@@ -1,4 +1,4 @@
-### 맹주영은 누구일까?
+### 맹주영
 
 <!--
 **meng-joo/meng-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://i3.ruliweb.com/ori/5/6/1/B/561BB1E3465F64002D">
+<img src="https://i3.ruliweb.com/ori/5/6/1/B/561BB1E3465F64002D](https://i.ytimg.com/vi/N6HM-U3bPQI/maxresdefault">
+
+  게임을 개발하는 게임프로그래머 [맹주영] 입니다!
 
 </div>
