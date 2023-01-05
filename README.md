@@ -11,6 +11,6 @@
 |🎓 고등학교|2021 ~|게임개발과|경기게임마이스터고
 
 
-  <a href="https://opgc.me/#/users/myidmm64" target="_blank"><img src="https://api.opgc.me/githubs/users/meng-joo/tag/?theme=basic" /></a>
+  <a href="https://opgc.me/#/users/meng-joo" target="_blank"><img src="https://api.opgc.me/githubs/users/meng-joo/tag/?theme=basic" /></a>
   
 </div>
