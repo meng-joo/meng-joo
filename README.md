@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://i3.ruliweb.com/ori/5/6/1/B/561BB1E3465F64002D](https://i.ytimg.com/vi/N6HM-U3bPQI">
+<img src="https://i3.ruliweb.com/ori/5/6/1/B/561BB1E3465F64002D](https://i.ytimg.com/vi/N6HM-U3bPQI](https://greenium.kr/wp-content/uploads/2021/11/21130_%EA%B7%B8%EB%A6%AC%EB%8B%88%EC%97%84_2%EB%8F%84%EC%94%A8_%EC%82%AC%EB%A7%89%ED%99%94-1-1.jpg">
 
   게임을 개발하는 게임프로그래머 [맹주영] 입니다!
 
