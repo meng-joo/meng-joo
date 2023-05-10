@@ -1,16 +1,70 @@
-<div align="center">
-  
-### 맹주영
-  
-<img src="https://greenium.kr/wp-content/uploads/2021/11/21130_%EA%B7%B8%EB%A6%AC%EB%8B%88%EC%97%84_2%EB%8F%84%EC%94%A8_%EC%82%AC%EB%A7%89%ED%99%94-1-1.jpg">
+<img width="100%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098606686131986482/2d7c88e3f41fd58e.png">
 
-  게임을 개발하는 게임프로그래머 [맹주영] 입니다!
-  
-  |종류|날짜|내용|조직|
-|---|---|---|---|
-|🎓 고등학교|2021 ~|게임개발과|경기게임마이스터고
+<img width="100%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098607565371355277/0b786efb1c50a076.png">
+<center>
+"노력하고 성장하는 개발자가 되자!"
+</center>
+<center>
 
+*******
 
-  <a href="https://opgc.me/#/users/meng-joo" target="_blank"><img src="https://api.opgc.me/githubs/users/meng-joo/tag/?theme=basic" /></a>
-  
-</div>
+### 📈 Stats
+
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meng-joo&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=20232a&amp;icon_color=E3E3E3A8&amp;text_color=fff&amp;title_color=918FE0&amp;count_private=true&quot;"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=meng-joo&amp;theme=dracula&amp;date_format=M%20j%5B%2C%20Y%5D">
+
+### + 게임 개발 경력 <b>2년 6개월</b> 조금 넘었습니다.
+
+</center>
+
+******
+ 
+<center>
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
+</p>
+
+### + <b>언리얼</b>도 가능합니다.
+
+<br>"팀 프로젝트를 할 때 <b>소통</b>을 잘하고 <b>자신의 일을 성실히 완수</b>하는 능력을 가지고 있습니다!"<br>
+
+</center>
+
+******
+
+<center>
+
+### 🏆 Carrer
+
+[ 2021 2학기 색체 1등 ] <br>
+[ 2021 하계 게임잼 2등 ]<br>
+[ 2022 1학기 우수작 2등 ]<br>
+[ 2022 2학기 우수작 5위 ]<br>
+
+[ <b>정보처리기능사</b> 취득 ]<br>
+[ <b>유니티 어소시에이트</b> 취득 ]
+
+##### + <b>맹아리</b>(동아리) 기장하였습니다. 
+
+</center>
+
+<p align="center"><img src="https://media.tenor.com/PZkZVUxrgHwAAAAC/bocchi-bocchi-the-rock.gif"></p>
+
+******
+
+<center>
+
+<br> 혹시 저를 더 알고 싶으시다면 밑에 <b>링크</b>로 들어오세요!<br>
+
+<a href="https://www.notion.so/22a0a5a5b4b940539c3e2d5e3acc58bf?pvs=4">
+<img width="50%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098650909371801750/5a26692c3d20970c.png">
+
+</a>
+
+</center>
