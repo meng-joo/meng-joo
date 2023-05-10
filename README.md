@@ -1,7 +1,7 @@
 <img width="100%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098606686131986482/2d7c88e3f41fd58e.png">
 
 <img width="100%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098607565371355277/0b786efb1c50a076.png">
-<center>
+<div align=center>
 "노력하고 성장하는 개발자가 되자!"
 </center>
 <center>
