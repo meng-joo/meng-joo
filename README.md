@@ -62,7 +62,7 @@
 
 <br> 혹시 저를 더 알고 싶으시다면 밑에 <b>링크</b>로 들어오세요!<br>
 
-<a href="[https://www.notion.so/22a0a5a5b4b940539c3e2d5e3acc58bf?pvs=4](https://www.notion.so/15d337716c2c4327a50e22501affa932?pvs=4)">
+<a href="https://www.notion.so/15d337716c2c4327a50e22501affa932?pvs=4">
 <img width="50%" src="https://cdn.discordapp.com/attachments/840857713584111629/1098650909371801750/5a26692c3d20970c.png">
 
 </a>
