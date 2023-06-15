@@ -54,7 +54,6 @@
 
 </center>
 
-<p align="center"><img src="https://media.tenor.com/PZkZVUxrgHwAAAAC/bocchi-bocchi-the-rock.gif"></p>
 
 ******
 
